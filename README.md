@@ -1,4 +1,17 @@
-Welcome to my GitHub Page!
+Hi, I'm Arian and welcome to my GitHub page!
+
+I've started my programming journey since 2020 and I haven't stopped ever since. I'm constantly looking to learn new skills and create bigger and better projects so that I can improve myself and project my career!
+
+## Links
+
+LinkedIn: https://www.linkedin.com/in/arian-fallahpour/
+
+Portfolio: https://arian-fallahpour.vercel.app/
+
+
+
+
+## Skills
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
