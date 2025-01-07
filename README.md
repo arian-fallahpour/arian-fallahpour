@@ -6,16 +6,13 @@ I've started my programming journey since 2020 and I haven't stopped ever since.
 
 ## Information
 
-🇨🇦 Proudly Canadian 🇨🇦
+Country: 🇨🇦 Proudly Canadian 🇨🇦
 
 Email: arian.fallahpour.sichani@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/arian-fallahpour/
 
 Portfolio: https://arian-fallahpour.vercel.app/
-
-
-
 
 ## Skills
 
