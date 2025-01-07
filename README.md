@@ -1,3 +1,5 @@
+# Welcome 👋🏼
+
 Hi, I'm Arian and welcome to my GitHub page!
 
 I've started my programming journey since 2020 and I haven't stopped ever since. I'm constantly looking to learn new skills and create bigger and better projects so that I can improve myself and project my career!
